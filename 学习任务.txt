@@ -1,0 +1,4 @@
+VUE全家桶，jQuery
+html5
+微信小程序接口
+node，w3c，浏览器兼容，bootstrap
