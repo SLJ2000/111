@@ -3,7 +3,7 @@ git remote add origin https://github.com/SLJ2000/fitst.git --关联云仓库
 git push -u origin master
 
 写完代码执行以下操作
-git add . --添加新的本地文件到暂缓区
+git add   . --添加新的本地文件到暂缓区
 git commit -m "知识点1" --提交到仓库，命名
  git tag 01_知识点1   --标签
 git tag 查看所有tag
